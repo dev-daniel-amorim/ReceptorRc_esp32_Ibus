@@ -46,7 +46,7 @@ Basta seguir o esquema elétrico abaixo e compilar o código (iBUS) para o seu e
 <br>
 
 ## Vamos coletar dados usando PWM
-Os pinos de comunicação PWM estão definidos na imagem abaixo, mas cuidado, as saídas são 5v, use o divisor para ler no Esp32:
+Os pinos de comunicação PWM estão definidos na imagem abaixo, para ligação dos pinos no Esp32 basta usar os pinos definidos no código fonte, mas cuidado, as saídas são 5v, use o divisor para ler no Esp32:
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/016742c6-47c6-472c-b53b-05a31402c573" width="50%" />
