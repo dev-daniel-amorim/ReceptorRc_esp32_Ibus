@@ -1,6 +1,5 @@
 
 /**************************************************************************************************
-DESENVOLVIDO, MODIFICADO E ATUALIZADO POR:
 DESENVOLVEDOR: DANIEL SÃ
 PROFISSÃO: ENG. DE COMPUTACAO
 YOUTUBE:
