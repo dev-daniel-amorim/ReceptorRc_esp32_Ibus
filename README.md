@@ -20,11 +20,10 @@ Ibus: Protocolo de comunicação, onde podemos receber em um so fio pacotes cont
 Os pinos de comunicação IBUS estão definidos na imagem abaixo:
 
 
-
-![Sem título](https://github.com/user-attachments/assets/8ab7aae1-020c-49d2-b010-d35b90e14bb0)
-
-
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/8ab7aae1-020c-49d2-b010-d35b90e14bb0" width="50%" />
+</p>
+<br>
 
 <hr>
 
