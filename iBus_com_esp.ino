@@ -39,7 +39,7 @@ void setup() {
   Serial.begin(115200);
   delay(500);
 
-  // RX em GPIO12, TX não usado
+  // RX em GPIO16, TX não usado
   FlySkySerial.begin(115200, SERIAL_8N1, 16, -1);
 
   Serial.println("IBUS iniciado. Lendo canais...");
