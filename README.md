@@ -32,6 +32,13 @@ Muito cuidado, a saída TX do receptor tem sinal de 5v e a porta RX do esp32 so 
 </p>
 <br>
 
+Basta seguir o esquema elétrico abaixo e compilar o código para o seu esp32 e você verá a mágica acontecendo:
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/550a8f1d-9b4a-4019-880d-00df04439d4d" width="50%" />
+</p>
+<br>
+
 
 
 
